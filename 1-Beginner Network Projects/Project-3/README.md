@@ -40,7 +40,7 @@ Albion University is a large university which has two campuses situated 20 miles
 Albion University consists of two campuses located 20 miles apart. This document outlines the network design, configuration, and implementation using Cisco Packet Tracer to support the university’s administrative and academic functions efficiently.
 
 ## 2. Installation
-To run this file ([ Campus Area Network Design & Implementation.pkt ](SOHO%20Network%20Design%20Project.pkt)), We need a Network Simulation Software Tool - **Cisco Packet Tracer**. 
+To run this file ([ Campus Area Network Design & Implementation.pkt ](Campus%20Area%20Network%20Design%20%26%20Implementation.pkt))), We need a Network Simulation Software Tool - **Cisco Packet Tracer**. 
 
 Click [here](https://archive.org/download/cpt822/CiscoPacketTracer822_64bit_setup_signed.exe) to download the **Cisco Packet Tracer** software tool (for Windows OS).
 
