@@ -125,7 +125,7 @@ Each campus will have its own IP network.
 
 Here, are the Network Infrastructure for Albion University.
 
-<img src="1-Beginner Network Projects/Project-3/Campus Area Network Design & Implementation.png" alt="Campus Area Network Design & Implementation">
+<img src="Campus%20Area%20Network%20Design%20%26%20Implementation.png" alt="Campus Area Network Design & Implementation">
 
 ## 5. Network Configuration
 
