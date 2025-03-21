@@ -827,11 +827,11 @@ This network design efficiently connects Albion University's campuses while ensu
 
 ## 8. Author
 
-Prepared by: Surajit Sen
+[Suajit Sen](https://github.com/ss-invention)
 
 ## 9. Licence
 
-This document is open for modification and distribution under the MIT License.
+[MIT](https://choosealicense.com/licenses/mit/)
 
 ## 10. Contributing
 
